@@ -16,6 +16,9 @@ Usage Notes:
     - Investigate and resolve any discrepancies found during the checks.
 ===============================================================================
 */
+-- ====================================================================
+-- Checking 'silver.crm_cust_info'
+-- ====================================================================
 -- Check For Nulls or Duplicates in Primary Key
 -- Expectation: No Result
 SELECT 
